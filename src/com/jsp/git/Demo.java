@@ -1,6 +1,5 @@
 package com.jsp.git;
 
 public class Demo {
-	// Feature 1
-
+   // feature 1 added from abc
 }
